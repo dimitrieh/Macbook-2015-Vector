@@ -1,5 +1,7 @@
 # Macbook-2015-Vector
-For usage ;)
+For usage ;) As a way of doing a little something back for the community. 
+
+Know that you need the San Fransisco font Apple introduced with its apple watch in order to have a fully functioning .sketch file.
 
 ![png preview](Macbook%202015.png)
 
